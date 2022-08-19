@@ -1,4 +1,4 @@
-[Hi! I'm Ho Bao Lan](https://user-images.githubusercontent.com/111562683/185583199-e3ee44e5-df72-4409-9d64-dcd8b458699e.png)
+<img width="100%" src="https://raw.githubusercontent.com/blanho/blanho/main/Hi!%20I'm%20Ho%20Bao%20Lan%20(1).png" />
 <h3 align="center">What I've been doing is to make your life better than mine.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
