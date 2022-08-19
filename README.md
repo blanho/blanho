@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there, What I'm Working On👋
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NodeJS, ExpressJS
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with DepOs
+- 🔭 I’m currently working on NodeJS, ExpressJS, TypeScript
+- 🌱 I’m currently learning ReactJS, Golang
+- 👯 I’m looking to collaborate on some people with high aims learning new things
+- 🤔 I’m looking for help with DevOps, Microsevices, System Design...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...h.baolan20025@gmail.com
+- 📫 How to reach me: h.baolan20025@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: do more, get less
 -->
