@@ -1,12 +1,37 @@
-### Hi there, What I'm Working On👋
+[Hi! I'm Ho Bao Lan](https://user-images.githubusercontent.com/111562683/185583199-e3ee44e5-df72-4409-9d64-dcd8b458699e.png)
+<h3 align="center">What I've been doing is to make your life better than mine.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blanho&label=Profile%20views&color=0e75b6&style=flat" alt="blanho" /> </p>
 
-- 🔭 I’m currently working on NodeJS, ExpressJS, TypeScript
-- 🌱 I’m currently learning ReactJS, Golang
-- 👯 I’m looking to collaborate on some people with high aims learning new things
-- 🤔 I’m looking for help with DevOps, Microsevices, System Design...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: h.baolan20025@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: do more, get less
+<p align="left"> <a href="https://twitter.com/hboln1" target="blank"><img src="https://img.shields.io/twitter/follow/hboln1?logo=twitter&style=for-the-badge" alt="hboln1" /></a> </p>
 
+- 🔭 I’m currently working on **NodeJS**
+
+- 🌱 I’m currently learning **ReactJS, NestJS, GoLang**
+
+- 🤝 I’m looking for help with **System Design, Microservices, Devops**
+
+- 💬 Ask me about **NodeJS, MERN**
+
+- 📫 How to reach me **h.baolan20025@gmail.com**
+
+- ⚡ Fun fact **do more, get less**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hboln1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hboln1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/blanho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blanho" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19800484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19800484" height="30" width="40" /></a>
+<a href="https://fb.com/blanc121120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blanc121120" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/blanho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blanho" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blanho&show_icons=true&locale=en&layout=compact" alt="blanho" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blanho&show_icons=true&locale=en" alt="blanho" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blanho&" alt="blanho" /></p>
