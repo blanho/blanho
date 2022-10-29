@@ -1,5 +1,4 @@
 
-<h3 align="center">What I've been doing is to make your life better than mine.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blanho&label=Profile%20views&color=0e75b6&style=flat" alt="blanho" /> </p>
@@ -8,7 +7,7 @@
 
 - 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **ReactJS, NestJS, GoLang**
+- 🌱 I’m currently learning **GoLang**
 
 - 🤝 I’m looking for help with **System Design, Microservices, Devops**
 
