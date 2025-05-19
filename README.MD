@@ -2,17 +2,6 @@
 <p align="left">
   Hello! I'm Lân!<br />
 </p>
-<h3 align="left">
-  Objectives:
-</h3>
-<ul align="left">
-  <li>1 vợ 2 con</li>
-  <li>có nhà, có xe</li>
-  <li>mua đồ không cần nhìn giá</li>
-  <li>thích ăn gì ăn</li>
-  <li>lượn lờ, thư giãn cuối tuần</li>
-  <li>tự do tài chính</li>
-</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/blanho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blanho" height="30" width="40" /></a>
